@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vooshassignment/static/css/main.9b80f1fc.css",
+    "main.js": "/vooshassignment/static/js/main.4938c574.js",
+    "static/js/787.550cd749.chunk.js": "/vooshassignment/static/js/787.550cd749.chunk.js",
+    "static/media/landing_bg.webp": "/vooshassignment/static/media/landing_bg.da8497cd24d321282c0d.webp",
+    "static/media/book_now_bg.webp": "/vooshassignment/static/media/book_now_bg.e9f9294653918137cd78.webp",
+    "static/media/my_profile.webp": "/vooshassignment/static/media/my_profile.61da110e7e1e80c97356.61da110e7e1e80c97356.webp",
+    "static/media/page1_2.webp": "/vooshassignment/static/media/page1_2.4bfc2d124bbd2e50da2d.4bfc2d124bbd2e50da2d.webp",
+    "static/media/page1_3.webp": "/vooshassignment/static/media/page1_3.1d108925b5e5156bb2d4.1d108925b5e5156bb2d4.webp",
+    "static/media/VooshLogo.webp": "/vooshassignment/static/media/VooshLogo.c64bcebd40a2d49cc591.webp",
+    "static/media/page1_1.webp": "/vooshassignment/static/media/page1_1.cb1dbedcdc321b25fb4e.cb1dbedcdc321b25fb4e.webp",
+    "index.html": "/vooshassignment/index.html",
+    "main.9b80f1fc.css.map": "/vooshassignment/static/css/main.9b80f1fc.css.map",
+    "main.4938c574.js.map": "/vooshassignment/static/js/main.4938c574.js.map",
+    "787.550cd749.chunk.js.map": "/vooshassignment/static/js/787.550cd749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b80f1fc.css",
+    "static/js/main.4938c574.js"
+  ]
+}
