@@ -1,0 +1,21 @@
+.main-class {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-bottom: 100px;
+    height: 60px;
+}
+
+.clicked {
+    margin-bottom: -300px;
+    margin-left: 50px;
+}
+
+.right {
+    margin-left: 500px;
+    
+    margin-top: 0;
+    height: 500px
+}
